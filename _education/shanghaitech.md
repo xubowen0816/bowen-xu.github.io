@@ -30,14 +30,14 @@ The following are the grades of my major major courses:
 | :-----------------------------------: | :---: | :----------------------: | :---: |
 |        Mathematical Analysis I        |   A   | Mathematical Analysis II |   A   |
 |            Linear Algebra            |   A   |   Discrete Mathematics   |  A-  |
-|     Probability and Statistics I     |  A-  |  Numerical Optimization  |  A-  |
+|     Probability and Statistics I     |  A-  |  Numerical Optimization  |  A+  |
 | Convex Optimization (Graduate Course) |  A+  |                          |      |
 
 * Major Courses
 
 |                       Course Name                       | Grade |           Course Name           | Grade |
 | :-----------------------------------------------------: | :---: | :-----------------------------: | :---: |
-| Introduction to Information<br />Science and Technology |  A-  |   Introduction to Programming   |  A-  |
+| Introduction to Information<br />Science and Technology |  A-  |   Introduction to Programming   |   A   |
 |             Algorithms and Data Structures             |  A-  | Computer Architecture I Project |  A+  |
 |        Reinforcement Learning (Graduate Course)        |  A+  |    Artificial Intelligence I    |   A   |
 |             Deep Learning (Graduate Course)             |   A   |                                |      |
