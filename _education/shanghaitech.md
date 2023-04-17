@@ -4,11 +4,12 @@ collection: education
 type: "Undergraduate"
 permalink: /education/shanghaitech
 venue: "School of Information Science and Technology."
-date: 2020.9 - 2024.6 (Expected)
+date: 2020
 location: "Shanghai, China"
 ---
 ## Overview
 
+* Time: 2020.9 - 2024.6 (Expected)
 * GPA: 3.78 / 4.0 (10 / 178, top 5%).
 * Honors: Merit Student (2020-2021), Outstanding Student (2021-2022).
 
