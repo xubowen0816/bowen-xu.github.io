@@ -1,10 +1,10 @@
 ---
-permalink: /award/
+permalink: /awards/
 title: "Awards"
 author_profile: true
 redirect_from: 
-  - /award/
-  - /award.html
+  - /awards/
+  - /awards.html
 ---
 The following are my main awards and honors:
 
