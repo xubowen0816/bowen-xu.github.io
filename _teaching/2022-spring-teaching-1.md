@@ -12,6 +12,5 @@ Head TA for Mathematical Analysis II Course.
 # Job Content
 
 * Organize teaching assistant work & carry out online teaching.
-* Weekly in-person tutorial and after-class question (including exercise & discussion sessions)
-
+* Weekly in-person tutorial and after-class question (including exercise & discussion sessions).
 * Assignment (including weekly exercise, exam paper, etc.) design & grading.

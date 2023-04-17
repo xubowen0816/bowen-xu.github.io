@@ -11,5 +11,5 @@ Teaching Assistant for Probability and Statistics for EECS Course.
 
 # Job Content
 
-* Weekly in-person tutorial and after-class question (including exercise & discussion sessions)
+* Weekly in-person tutorial and after-class question (including exercise & discussion sessions).
 * Assignment (including weekly exercise, project topic, exam paper, etc.) design & grading.
