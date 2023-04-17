@@ -4,7 +4,7 @@ collection: education
 type: "Undergraduate"
 permalink: /education/shanghaitech
 venue: "School of Information Science and Technology."
-date: 2020.9-2024.6
+date: 2020.9-2024.6 (Expected)
 location: "Shanghai, China"
 ---
 ## Overview
@@ -42,7 +42,7 @@ The following are the grades of my major major courses:
 
 ## Course Projects
 
-* [Convex Optimization](https://xubowen0816.github.io/bowen-xu.github.io/education/Convex_optimization)
+* [Convex Optimization](https://xubowen0816.github.io/bowen-xu.github.io/education/Convex_optimization.pdf)
 * [Reinforcement Learning](https://xubowen0816.github.io/bowen-xu.github.io/education/Reinforcement_learning.pdf)
 * [Artificial Intelligence I](https://xubowen0816.github.io/bowen-xu.github.io/education/Artificial_intelligence.pdf)
 * [Deep Learning](https://xubowen0816.github.io/bowen-xu.github.io/education/Deep_learning.pdf)

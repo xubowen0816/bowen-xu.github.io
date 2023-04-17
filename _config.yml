@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bowen Xu's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bowen Xu"
 description              : &description "personal description"
 url                      : https://xubowen0816.github.io/bowen-xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
