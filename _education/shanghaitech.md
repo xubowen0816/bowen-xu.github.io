@@ -1,16 +1,12 @@
 ---
-title: "ShanghaiTech University"
+title: "ShanghaiTech University (Co-Founded by the Chinese Academy of Sciences)"
 collection: education
-type: "education"
+type: "Undergraduate"
 permalink: /education/shanghaitech
-venue: "ShanghaiTech University, School of Information Science and Technology."
+venue: "School of Information Science and Technology."
 date: 2020.9 - 2024.6 (Expected)
 location: "Shanghai, China"
 ---
-# [ShanghaiTech University (Co-Founded by the Chinese Academy of Sciences)](https://www.shanghaitech.edu.cn)
-
-* Time: Sep 2020 - Jun 2024 (Expected).
-* Undergraduate; [School of Information Science and Technology](https://sist.shanghaitech.edu.cn).
 * GPA: 3.78 / 4.0 (10 / 178, top 5%).
 * Honors: Merit Student (2020-2021), Outstanding Student (2021-2022).
 
