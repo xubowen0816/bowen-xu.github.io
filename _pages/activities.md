@@ -1,11 +1,10 @@
 ---
-permalink: /activities/
+layout: archive
 title: "Activities"
-excerpt: "Activities"
+permalink: /activities/
 author_profile: true
-redirect_from: 
-  - "/activities/"
-  - "/activities.html"
+redirect_from:
+  - /activities
 ---
 This is a page not in the menu. You can use markdown in this page.
 
