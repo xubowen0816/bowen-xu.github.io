@@ -7,7 +7,7 @@ venue: "School of Information Science and Technology."
 date: 2020.9-2024.6 (Expected)
 location: "Shanghai, China"
 ---
-Undergraduate School, 2020.9 - 2024. 6 (Expected)
+Undergraduate School, 2020.9 - 2024. 6 (Expected).
 
 ## Overview
 
