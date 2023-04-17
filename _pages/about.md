@@ -13,4 +13,4 @@ My research interest includes Bandits & Reinforcement Learning, Network Intellig
 
 You can find my CV here: [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf).
 
-change: 0
+change: 1
