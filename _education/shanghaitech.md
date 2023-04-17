@@ -4,7 +4,7 @@ collection: education
 type: "Undergraduate"
 permalink: /education/shanghaitech
 venue: "School of Information Science and Technology."
-date: 2020
+date: 2020.9-2024.6
 location: "Shanghai, China"
 ---
 ## Overview
@@ -36,6 +36,6 @@ location: "Shanghai, China"
 ## Course Projects
 
 * [Convex Optimization]()
-* [Reinforcement Learning]()
-* [Artificial Intelligence I]()
-* [Deep Learning]()
+* [Reinforcement Learning](https://xubowen0816.github.io/bowen-xu.github.io/Reinforcement_learning.pdf)
+* [Artificial Intelligence I](https://xubowen0816.github.io/bowen-xu.github.io/Artificial_intelligence.pdf)
+* [Deep Learning](https://xubowen0816.github.io/bowen-xu.github.io/Deep_learning.pdf)
