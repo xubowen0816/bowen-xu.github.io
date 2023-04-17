@@ -7,7 +7,7 @@ venue: "ShanghaiTech University, School of Information Science and Technology"
 date: 2023.2 - 2023.6
 location: "Shanghai, China"
 ---
-Teaching Assistant for Probability and Statistics for EECS Course.
+Teaching Assistant for Probability and Statistics for EECS Course (2023.2 - 2023.6).
 
 # Job Content
 

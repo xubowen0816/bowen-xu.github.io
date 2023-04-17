@@ -7,7 +7,7 @@ venue: "ShanghaiTech University, Institute of Mathematical Sciences"
 date: 2022.2 - 2022.6
 location: "Shanghai, China"
 ---
-Head TA for Mathematical Analysis II Course.
+Head TA for Mathematical Analysis II Course (2022.2 - 2022.6).
 
 # Job Content
 
