@@ -19,8 +19,8 @@ Undergraduate School, 2020.9 - 2024. 6 (Expected)
 
 Here are my full grade transcripts:
 
-* English version
-* Chinese version
+* [English version](https://xubowen0816.github.io/bowen-xu.github.io/education/grade_en.pdf)
+* [Chinese version](https://xubowen0816.github.io/bowen-xu.github.io/education/grade_cn.pdf)
 
 The following are the grades of my major major courses:
 
