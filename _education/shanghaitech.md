@@ -7,8 +7,6 @@ venue: "ShanghaiTech University, School of Information Science and Technology."
 date: 2020.9 - 2024.6 (Expected)
 location: "Shanghai, China"
 ---
-My Education Experience
-
 # [ShanghaiTech University (Co-Founded by the Chinese Academy of Sciences)](https://www.shanghaitech.edu.cn)
 
 * Time: Sep 2020 - Jun 2024 (Expected).
@@ -42,8 +40,3 @@ My Education Experience
 * [Reinforcement Learning]()
 * [Artificial Intelligence I]()
 * [Deep Learning]()
-
-# [Yangzhou High School of Jiangsu Province](http://61.155.62.52/yzzx/)
-
-* Time: 2017.9 - 2020.6.
-* High Student Student.
