@@ -1,10 +1,11 @@
 ---
-permalink: /education/
-title: "Education"
-author_profile: true
-redirect_from: 
-  - /ed/
-  - /education.html
+title: "ShanghaiTech University"
+collection: education
+type: "education"
+permalink: /education/shanghaitech
+venue: "ShanghaiTech University, School of Information Science and Technology."
+date: 2020.9 - 2024.6 (Expected)
+location: "Shanghai, China"
 ---
 My Education Experience
 
@@ -42,7 +43,7 @@ My Education Experience
 * [Artificial Intelligence I]()
 * [Deep Learning]()
 
-# [Yangzhou High School of Jiangsu Province](https://www.yzzx.org)
+# [Yangzhou High School of Jiangsu Province](http://61.155.62.52/yzzx/)
 
 * Time: 2017.9 - 2020.6.
 * High Student Student.
