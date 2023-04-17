@@ -6,8 +6,6 @@ redirect_from:
   - /awards/
   - /awards.html
 ---
-The following are my main awards and honors:
-
 ## Competition Awards
 
 * Mathematical Contest in Modeling (MCM): Honorable Mention, 2022.
