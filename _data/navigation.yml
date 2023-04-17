@@ -6,7 +6,7 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Competition Awards"
+  - title: "Awards"
     url: /awards/
 
   - title: "Teaching"
@@ -18,11 +18,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
-
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Guide"
+    url: /markdown/
     
   # - title: "Publications"
   #   url: /publications/
