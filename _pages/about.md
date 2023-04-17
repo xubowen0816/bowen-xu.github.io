@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of Information and Science](
 
 My research interest includes Bandits & Reinforcement Learning, Network Intelligence, Distributed AI System.
 
-You can find my CV here: [Bowen Xu&#39;s CV](../assets/Bowen_Xu__ShanghaiTech__CS.pdf).
+You can find my CV here: [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf).
 
 # Education
 
