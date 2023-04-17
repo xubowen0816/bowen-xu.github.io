@@ -1,5 +1,6 @@
 ---
 title: "Education"
+collection: "education"
 ---
 My Education Experience
 
