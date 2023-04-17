@@ -1,6 +1,7 @@
 ---
 title: "Education"
 collection: "education"
+permalink: /education/education
 ---
 My Education Experience
 
