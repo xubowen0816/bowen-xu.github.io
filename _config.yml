@@ -190,7 +190,7 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
-  award:
+  awards:
     output: true
     permalink: /:collection/:path/
 
