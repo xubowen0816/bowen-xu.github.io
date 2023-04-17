@@ -7,6 +7,8 @@ venue: "School of Information Science and Technology."
 date: 2020.9 - 2024.6 (Expected)
 location: "Shanghai, China"
 ---
+## Overview
+
 * GPA: 3.78 / 4.0 (10 / 178, top 5%).
 * Honors: Merit Student (2020-2021), Outstanding Student (2021-2022).
 
