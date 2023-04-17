@@ -44,7 +44,7 @@ The following are the grades of my major major courses:
 
 ## Course Projects
 
-* [Convex Optimization](https://xubowen0816.github.io/bowen-xu.github.io/education/Convex_optimization.pdf)
-* [Reinforcement Learning](https://xubowen0816.github.io/bowen-xu.github.io/education/Reinforcement_learning.pdf)
-* [Artificial Intelligence I](https://xubowen0816.github.io/bowen-xu.github.io/education/Artificial_intelligence.pdf)
-* [Deep Learning](https://xubowen0816.github.io/bowen-xu.github.io/education/Deep_learning.pdf)
+* [Reinforcement Learning (2022 Jun)](https://xubowen0816.github.io/bowen-xu.github.io/education/Reinforcement_learning.pdf)
+* [Convex Optimization (2022 Dec)](https://xubowen0816.github.io/bowen-xu.github.io/education/Convex_optimization.pdf)
+* [Artificial Intelligence I (2022 Dec)](https://xubowen0816.github.io/bowen-xu.github.io/education/Artificial_intelligence.pdf)
+* [Deep Learning (2022 Dec)](https://xubowen0816.github.io/bowen-xu.github.io/education/Deep_learning.pdf)
