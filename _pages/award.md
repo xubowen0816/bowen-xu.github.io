@@ -1,11 +1,13 @@
 ---
-permalink: /awards/
+permalink: /award/
 title: "Awards"
 author_profile: true
 redirect_from: 
-  - /awards/
-  - /awards.html
+  - /award/
+  - /award.html
 ---
+The following are my main awards and honors:
+
 ## Competition Awards
 
 * Mathematical Contest in Modeling (MCM): Honorable Mention, 2022.
