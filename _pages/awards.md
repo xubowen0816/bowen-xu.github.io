@@ -6,7 +6,7 @@ redirect_from:
   - /awards/
   - /awards.html
 ---
-The following are my main awards:
+The following are my main awards and honors:
 
 ## Competition Awards
 
