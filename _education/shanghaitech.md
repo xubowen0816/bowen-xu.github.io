@@ -15,6 +15,13 @@ location: "Shanghai, China"
 
 ## Curriculum
 
+Here are my full grade transcripts:
+
+* English version
+* Chinese version
+
+The following are the grades of my major major courses:
+
 * Mathematics Courses
 
 |              Course Name              | Grade |       Course Name       | Grade |
@@ -35,7 +42,7 @@ location: "Shanghai, China"
 
 ## Course Projects
 
-* [Convex Optimization]()
-* [Reinforcement Learning](https://xubowen0816.github.io/bowen-xu.github.io/Reinforcement_learning.pdf)
-* [Artificial Intelligence I](https://xubowen0816.github.io/bowen-xu.github.io/Artificial_intelligence.pdf)
-* [Deep Learning](https://xubowen0816.github.io/bowen-xu.github.io/Deep_learning.pdf)
+* [Convex Optimization](https://xubowen0816.github.io/bowen-xu.github.io/education/Convex_optimization)
+* [Reinforcement Learning](https://xubowen0816.github.io/bowen-xu.github.io/education/Reinforcement_learning.pdf)
+* [Artificial Intelligence I](https://xubowen0816.github.io/bowen-xu.github.io/education/Artificial_intelligence.pdf)
+* [Deep Learning](https://xubowen0816.github.io/bowen-xu.github.io/education/Deep_learning.pdf)
