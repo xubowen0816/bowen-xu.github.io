@@ -5,7 +5,9 @@ venue: "Using human feedback to train the bandit learning mode"
 date: 2023.3 - Present
 collection: research
 ---
-This project designed a model framework: Bandit Learning from Human Feedback (BLHF), the main role is to use human feedback to train the bandit learning mode. The idea comes from the core technology used by the chatgpt model: Reinforcement Learning from Human Feedback (RLHF).
+**Key words:** Bandit Learning, Reinforcement Learning, Human feedback, Lightweight RLHF.
+
+This project designed a model framework: **Bandit Learning from Human Feedback (BLHF)**, the main role is to use human feedback to train the bandit learning mode. The idea comes from the core technology used by the chatgpt model: Reinforcement Learning from Human Feedback (RLHF).
 
 The basic structure of learning from human feedback is to make the model learn or fine-tune the model according to the results of human feedback. This technology can be mainly used in the training of language models (including chatgpt, etc.), or in decision-making systems (RLHF for decision making)
 

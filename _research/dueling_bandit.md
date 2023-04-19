@@ -5,6 +5,8 @@ venue: "Conducting a literature review of existing dueling bandit algorithms"
 date: 2022.06 - 2022.10
 collection: research
 ---
+**Key words:** Dueling Bandit Algorithm, Reinforcement Learning, Review.
+
 The following are the main work of this project:
 
 * [Review slides for Dueling Bandit algorithms](https://xubowen0816.github.io/bowen-xu.github.io/research/file/dueling bandit review/dueling_bandit review.pdf).

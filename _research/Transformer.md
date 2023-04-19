@@ -5,6 +5,8 @@ venue: "Detailed investigate Transformer model and BERT mode"
 date: 2022.12 - 2023.2
 collection: research
 ---
+**Key words:** Transformer model, Review.
+
 The following are the main work of this project:
 
 * [Transformer Model Details](https://xubowen0816.github.io/bowen-xu.github.io/research/file/transformer/transformer model details.pdf)
