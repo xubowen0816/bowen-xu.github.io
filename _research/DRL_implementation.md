@@ -1,6 +1,18 @@
 ---
 title: "Implementation of DRL(Deep Reinforcement Learning)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Some implementations of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
+venue: "Some implementations of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
+date: 2023.04 - Present
 collection: research
 ---
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+**Key words:** Deep Reinforcement Learning, AlphaTensor, AlphaGo.
+
+Some implementations of DRL (Deep Reinforcement Learning) models. include:
+
+* AlphaTensor (Accelerate Tensors/Matrices Computation)
+* AlphaGo
+
+In this project, my main tasks are:
+
+* Build GPU clusters and large neural networks.
+* Reproduce the effect of AlphaTensor and AlphaGo.

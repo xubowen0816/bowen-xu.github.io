@@ -1,7 +1,7 @@
 ---
 title: "Bandit Learning with Human Feedback (BLHF)"
-excerpt: "Using human feedback to train the bandit learning mode"
-venue: "Using human feedback to train the bandit learning mode"
+excerpt: "Using human feedback to train the bandit learning mode, 2023.3 - Present"
+venue: "Using human feedback to train the bandit learning mode, 2023.3 - Present"
 date: 2023.3 - Present
 collection: research
 ---
