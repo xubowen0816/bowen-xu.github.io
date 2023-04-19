@@ -21,4 +21,4 @@ The following are my main awards and honors:
 
 * Merit Student (top 3%) ShanghaiTech University, 2020-2021.
 * Outstanding Student (top 7-8%) ShanghaiTech University, 2021-2022.
-* Advanced Individual For Society Practice, 2021
+* Advanced Individual for Society Practice, 2021
