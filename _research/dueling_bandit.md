@@ -1,6 +1,7 @@
 ---
 title: "Dueling Bandit Review"
 excerpt: "Conducting a literature review of existing dueling bandit algorithms"
+venue: "Conducting a literature review of existing dueling bandit algorithms"
 date: 2022.06 - 2022.10
 collection: research
 ---

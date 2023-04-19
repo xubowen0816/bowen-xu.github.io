@@ -1,6 +1,7 @@
 ---
 title: "Transformer Model Review"
 excerpt: "Detailed investigate Transformer model and BERT mode"
+venue: "Detailed investigate Transformer model and BERT mode"
 date: 2022.12 - 2023.2
 collection: research
 ---
