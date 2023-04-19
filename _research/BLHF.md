@@ -1,7 +1,7 @@
 ---
 title: "Bandit Learning with Human Feedback (BLHF)"
-excerpt: "Using human feedback to train the bandit learning mode, 2023.3 - Present"
-venue: "Using human feedback to train the bandit learning mode, 2023.3 - Present"
+excerpt: "Using human feedback to train the bandit learning model, 2023.3 - Present"
+venue: "Using human feedback to train the bandit learning model, 2023.3 - Present"
 date: 2023.3 - Present
 collection: research
 ---
@@ -18,3 +18,5 @@ My main division of labor in this project are:
 * Related papers and models in related fields research.
 * Model frameworks Design.
 * Model simulations.
+
+This project is expected to be submitted as a research paper.

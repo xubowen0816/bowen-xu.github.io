@@ -24,11 +24,11 @@ main:
   - title: "Skills"
     url: /skills/
 
-  # - title: "Guide"
-  #   url: /markdown/
-    
   # - title: "Publications"
   #   url: /publications/
+
+  # - title: "Guide"
+  #   url: /markdown/
 
   # - title: "Talks"
   #   url: /talks/    
