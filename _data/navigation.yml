@@ -15,11 +15,14 @@ main:
   - title: "Activities"
     url: /activities/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Skills"
+    url: /skills/
 
   # - title: "Guide"
   #   url: /markdown/
