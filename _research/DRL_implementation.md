@@ -14,7 +14,7 @@ Some implementations of DRL (Deep Reinforcement Learning) models. include:
 * AlphaTensor (Accelerate Tensors/Matrices Computation).
 * AlphaGo.
 
-In this project, my main tasks are:
+In this project, my main work are:
 
 * Build GPU clusters and large neural networks.
 * Reproduce the effect of AlphaTensor and AlphaGo.
