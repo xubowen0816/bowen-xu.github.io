@@ -1,5 +1,5 @@
 ---
-title: "Dueling Bandit Review"
+title: "Dueling Bandit"
 excerpt: "Conducting a literature review of existing dueling bandit algorithms, 2022.06 - 2022.10"
 venue: "Conducting a literature review of existing dueling bandit algorithms, 2022.06 - 2022.10"
 date: 2022.06 - 2022.10
