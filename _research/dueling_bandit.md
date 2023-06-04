@@ -9,9 +9,9 @@ collection: research
 
 The following are the main work of this project:
 
-* [Review slides for Dueling Bandit algorithms](https://xubowen0816.github.io/bowen-xu.github.io/research/file/dueling bandit review/dueling_bandit review.pdf).
-* [Review slides for Self-Sparring algorithm](https://xubowen0816.github.io/bowen-xu.github.io/research/file/dueling bandit review/self-sparring algorithm.pdf.pdf).
-* [Mindmap for Dueling Bandit algorithm review](https://xubowen0816.github.io/bowen-xu.github.io/research/file/dueling bandit review/mindmap dueling bandit.pdf).
+* [Review slides for Dueling Bandit algorithms](https://xubowen0816.github.io/bowen-xu.github.io/research/file/dueling_bandit_review/dueling_bandit_review.pdf).
+* [Review slides for Self-Sparring algorithm](https://xubowen0816.github.io/bowen-xu.github.io/research/file/dueling_bandit_review/self_sparring_algorithm.pdf.pdf).
+* [Mindmap for Dueling Bandit algorithm review](https://xubowen0816.github.io/bowen-xu.github.io/research/file/dueling_bandit review/mindmap_dueling_bandit.pdf).
 
 In this research topic, I conducted a detailed investigation on the existing dueling bandit algorithms, summarized several representative algorithms among them, and based on different problem settings, different motivations and application scenarios and other standards to These algorithms are compared and classified, and the development of the dueling bandit algorithm and the key problems to be solved in the future are analyzed.
 
