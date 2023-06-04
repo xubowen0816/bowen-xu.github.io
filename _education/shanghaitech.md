@@ -40,7 +40,7 @@ The following are the grades of my main major courses:
 |        Reinforcement Learning (Graduate Course)        |  A+  | Deep Learning (Graduate Course) |   A   |
 |             Computer Architecture I Project             |  A+  |    Artificial Intelligence I    |   A   |
 | Introduction to Information<br />Science and Technology |  A-  |   Introduction to Programming   |   A   |
-|             Algorithms and Data Structures             |   A   |                                |      |
+|             Algorithms and Data Structures             |  A-  |                                |      |
 
 ## Course Projects
 
