@@ -1,24 +1,23 @@
 ---
-title: "Implementation of DRL(Deep Reinforcement Learning)"
-excerpt: "Some implementations of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
-venue: "Some implementations of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
+title: "Application of DRL(Deep Reinforcement Learning)"
+excerpt: "Some applications of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
+venue: "Some applications of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
 date: 2023.04 - Present
 collection: research
 ---
-**Key words:** Deep Reinforcement Learning, AI for Science, AlphaTensor, AlphaGo.
+**Key words:** Deep Reinforcement Learning, AI for Science, AlphaGo.
 
 This is one significant part of ShanghaiTech University 'AI for Science' Project.
 
-Some implementations of DRL (Deep Reinforcement Learning) models. include:
+Some application of DRL (Deep Reinforcement Learning) models. include:
 
-* AlphaTensor (Accelerate Tensors/Matrices Computation).
-* AlphaGo.
+* AlphaGo (Present).
+* AlphaTensor (Plan): To Accelerate Tensors / Matrices Computation.
 
-In this project, my main work are:
+In this project, my main work in the present are:
 
-* Build GPU clusters and large neural networks.
-* Reproduce the effect of AlphaTensor and AlphaGo.
-* Promote DRL-based interdisciplinary projects ( AI for Science ) .
+* Reproduce the project AlphaGo.
+* Introduce deep reinforcement learning to researchers of basic science (e.g. life science and physics).
 
 In the future, we plan to implement DRL techniques in the application scenarios as below:
 
