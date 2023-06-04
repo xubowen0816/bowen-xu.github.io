@@ -9,5 +9,5 @@ collection: research
 
 My main work in this project are:
 
-* **Constraind** graph neural network bandits for social network.
+* **Constrained** graph neural network bandits for social network.
 * Graph neural network bandits with **dependent arms**.
