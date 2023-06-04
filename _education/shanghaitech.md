@@ -44,9 +44,9 @@ The following are the grades of my main major courses:
 
 ## Course Projects
 
-* [Reinforcement Learning (Graduate course, Jun, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/course project/Reinforcement_learning.pdf)
-* [Machine Learning (Jun 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/course project/Machine_learning.pdf)
-* [Convex Optimization (Graduate course, Dec, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/course project/Convex_optimization.pdf)
-* [Artificial Intelligence I (Dec, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/course project/Artificial_intelligence.pdf)
-* [Deep Learning (Graduate course, Dec, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/course project/Deep_learning.pdf)
-* [Matrix Computation (Graduate course, May, 2023)](https://xubowen0816.github.io/bowen-xu.github.io/education/course project/Matrix_Computation.pdf)
+* [Reinforcement Learning (Graduate course, Jun, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/file/course project/Reinforcement_learning.pdf)
+* [Machine Learning (Jun 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/file/course project/Machine_learning.pdf)
+* [Convex Optimization (Graduate course, Dec, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/file/course project/Convex_optimization.pdf)
+* [Artificial Intelligence I (Dec, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/file/course project/Artificial_intelligence.pdf)
+* [Deep Learning (Graduate course, Dec, 2022)](https://xubowen0816.github.io/bowen-xu.github.io/education/file/course project/Deep_learning.pdf)
+* [Matrix Computation (Graduate course, May, 2023)](https://xubowen0816.github.io/bowen-xu.github.io/education/file/course project/Matrix_Computation.pdf)
