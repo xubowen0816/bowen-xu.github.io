@@ -12,7 +12,7 @@ Undergraduate School, 2020.9 - 2024. 6 (Expected).
 ## Overview
 
 * Time: 2020.9 - 2024.6 (Expected)
-* GPA: 3.78 / 4.0 (12 / 178, top 6%).
+* GPA: 3.8 / 4.0 (12 / 178, top 6%).
 * Honors: Merit Student (2020-2021), Outstanding Student (2021-2022).
 
 ## Curriculum
@@ -26,21 +26,21 @@ The following are the grades of my main major courses:
 
 * Mathematics Courses
 
-|              Course Name              | Grade |       Course Name       | Grade |
-| :-----------------------------------: | :---: | :----------------------: | :---: |
-| Convex Optimization (Graduate Course) |  A+  |  Numerical Optimization  |  A+  |
-|        Mathematical Analysis I        |   A   | Mathematical Analysis II |   A   |
-|            Linear Algebra            |   A   |   Discrete Mathematics   |  A-  |
-|     Probability and Statistics I     |  A-  |                          |      |
+|              Course Name              | Grade |              Course Name              | Grade |
+| :-----------------------------------: | :---: | :------------------------------------: | :---: |
+| Convex Optimization (Graduate Course) |  A+  | Matrix computations (Graduate Course) |  A+  |
+|        Numerical Optimization        |  A+  |        Mathematical Analysis I        |   A   |
+|       Mathematical Analysis II       |   A   |             Linear Algebra             |   A   |
+|         Discrete Mathematics         |  A-  |      Probability and Statistics I      |  A-  |
 
 * Major Courses
 
-|                       Course Name                       | Grade |           Course Name           | Grade |
-| :-----------------------------------------------------: | :---: | :-----------------------------: | :---: |
-|        Reinforcement Learning (Graduate Course)        |  A+  | Deep Learning (Graduate Course) |   A   |
-|             Computer Architecture I Project             |  A+  |    Artificial Intelligence I    |   A   |
-| Introduction to Information<br />Science and Technology |  A-  |   Introduction to Programming   |   A   |
-|             Algorithms and Data Structures             |  A-  |                                |      |
+|                     Course Name                     | Grade |           Course Name           | Grade |
+| :-------------------------------------------------: | :---: | :-----------------------------: | :---: |
+|      Reinforcement Learning (Graduate Course)      |  A+  | Deep Learning (Graduate Course) |   A   |
+| Online Optimization and Learning (Graduate Course) |   A   | Computer Architecture I Project |  A+  |
+|              Artificial Intelligence I              |   A   |   Introduction to Programming   |   A   |
+| Introduction to Information Science and Technology |  A-  | Algorithms and Data Structures |  A-  |
 
 ## Course Projects
 
