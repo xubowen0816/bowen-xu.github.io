@@ -1,7 +1,7 @@
 ---
 title: "GNN (Graph Neural Network) Bandits with Social Graph"
-excerpt: "GNN (Graph Neural Network) Bandits with Social Graph, 2023.05 - Present"
-venue: "GNN (Graph Neural Network) Bandits with Social Graph, 2023.05 - Present"
+excerpt: "GNN (Graph Neural Network) Bandits with Social Graph, 2023.04 - Present"
+venue: "GNN (Graph Neural Network) Bandits with Social Graph, 2023.04 - Present"
 date: 2023.04 - present
 collection: research
 ---
