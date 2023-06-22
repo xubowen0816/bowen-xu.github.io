@@ -1,5 +1,5 @@
 ---
-title: "Application of DRL(Deep Reinforcement Learning)"
+title: "Application of DRL (Deep Reinforcement Learning)"
 excerpt: "Some applications of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
 venue: "Some applications of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
 date: 2023.04 - Present
@@ -16,10 +16,10 @@ Some application of DRL (Deep Reinforcement Learning) models. include:
 
 In this project, my main work in the present are:
 
-* Reproduce the project AlphaGo.
-* Introduce deep reinforcement learning to researchers of basic science (e.g. life science and physics).
+* Reproduce the project AlphaGo (in process).
+* Introduce deep reinforcement learning to researchers of basic science (e.g. life science and physics) (in process).
 
 In the future, we plan to implement DRL techniques in the application scenarios as below:
 
 * DRL for nuclear fusion.
-* DRL for protein synthesis.
+* DRL for protein design.

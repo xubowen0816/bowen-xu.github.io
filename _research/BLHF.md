@@ -7,7 +7,7 @@ collection: research
 ---
 **Key words:** Bandit Learning, Reinforcement Learning, Human feedback, Lightweight RLHF.
 
-This project introduces a model framework called "**Bandit Learning from Human Feedback" (BLHF)**, which uses human feedback to train the bandit learning model. The idea for this framework was inspired by the core technology used in the ChatGPT model: Reinforcement Learning from Human Feedback (RLHF).
+This project introduces a model framework called "**Bandit Learning from Human Feedback (BLHF)"**, which uses human feedback to train the bandit learning model. The idea for this framework was inspired by the core technology used in the ChatGPT model: Reinforcement Learning from Human Feedback (RLHF).
 
 The basic structure of learning from human feedback involves making the model learn or fine-tune based on the results of human feedback. This technology is useful in training language models (including ChatGPT) and decision-making systems (such as RLHF for decision making).
 
@@ -16,5 +16,5 @@ The motivation behind this project is to create a lighter-weight alternative to 
 My main division of labor in this project are:
 
 * Related papers and models in related fields research.
-* Model frameworks Design.
-* Model simulations.
+* Model frameworks Design (in process).
+* Model simulations (in process).
