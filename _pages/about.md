@@ -25,7 +25,7 @@ In conclusion, my research concentrates on using the **bandit algorithm** to mak
 **I am currently searching for Ph.D. positions (2024 Fall).** Please feel free to access my CV:  [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf), and contact me at:
 
 * Email: xubw1 at shanghaitech dot edu dot cn
-* Social Media: WeChat (ID: mystery-0918)
+* Social Media: WeChat (ID: xubowen-0816)
 
 ## GPA
 
