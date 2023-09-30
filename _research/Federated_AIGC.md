@@ -1,5 +1,5 @@
 ---
-title: "Federated AIGC (AI-Generated Content)"
+title: "Federated AIGC"
 excerpt: "An innovative MAB (Multi-armed Bandit) combines Bandit Feedback with Supervised Feedback, 2023.04 - Present"
 venue: "An innovative MAB (Multi-armed Bandit) combines Bandit Feedback with Supervised Feedback, 2023.04 - Present"
 date: 2023.02 - present

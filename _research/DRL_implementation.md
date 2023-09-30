@@ -5,6 +5,8 @@ venue: "Some applications of the DRL (Deep Reinforcement Learning) model, 2023.0
 date: 2023.04 - Present
 collection: research
 ---
+
+<!--
 **Key words:** Deep Reinforcement Learning, AI for Science, AlphaGo.
 
 This is one significant part of ShanghaiTech University 'AI for Science' Project.
@@ -23,3 +25,4 @@ In the future, we plan to implement DRL techniques in the application scenarios 
 
 * DRL for nuclear fusion.
 * DRL for protein design.
+-->

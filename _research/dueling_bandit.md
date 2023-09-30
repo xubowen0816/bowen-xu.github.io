@@ -5,6 +5,7 @@ venue: "Conducting a literature review of existing dueling bandit algorithms, 20
 date: 2022.06 - 2022.10
 collection: research
 ---
+<!-- 
 **Key words:** Dueling Bandit Algorithm, Reinforcement Learning, Review.
 
 In this research topic, I conducted a detailed investigation on the existing dueling bandit algorithms, summarized several representative algorithms among them, and based on different problem settings, different motivations and application scenarios and other standards to These algorithms are compared and classified, and the development of the dueling bandit algorithm and the key problems to be solved in the future are analyzed.
@@ -25,3 +26,4 @@ If you need to solve the problem in the dependent arm scenario, there are the fo
 * Self-Sparring (2017): Solve Dueling Bandit problem with dependent arms
 
 The purpose and work of this review is to make a detailed classification and summary of the existing dueling bandit, divide them into several categories through the above method, and look forward to their respective future challenges and development directions, etc.
+-->
