@@ -20,19 +20,19 @@ Currently I focused my research on the topics below:
 
 In conclusion, my research concentrates on using the **bandit algorithm** to make the **networked systems** applicable to a wider range of real-world scenarios (especially with **constrained setting**).
 
-### Basic Information
+## Basic Information
 
 **I am currently searching for Ph.D. positions (2024 Fall).** Please feel free to access my CV:  [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf), and contact me at:
 
 * Email: xubw1 at shanghaitech dot edu dot cn
 * Social Media: WeChat (ID: mystery-0918)
 
-### GPA
+## GPA
 
 * **5 Graduate courses: 4.0 / 4.0.**
 * Overall: 3.8 / 4.0 (12 / 177, top 6%).
 
-### Awards and Honors
+## Awards and Honors
 
 * **Merit Student (top 3%)** ShanghaiTech University, 2020-2021.
 * Outstanding Student (top 7-8%) ShanghaiTech University, 2021-2022.
@@ -42,7 +42,7 @@ In conclusion, my research concentrates on using the **bandit algorithm** to mak
 * Shanghai College Students Mathematics Contest: Second Prize, 2021.
 * Shanghai College Students Mathematics Contest: Third Prize, 2022.
 
-### Teaching Assistant
+## Teaching Assistant
 
 * Spring 2023 Probability and Statistics for EECS.
 * Spring 2022 Mathematical Analysis II.
