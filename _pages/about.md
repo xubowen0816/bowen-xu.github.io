@@ -30,7 +30,7 @@ In conclusion, my research concentrates on using the **bandit algorithm** to mak
 ## GPA
 
 * **5 Graduate courses: 4.0 / 4.0.**
-* **Last year: 4.0 / 4.0 (1 / 177, top 1%)**
+* **Last year: 4.0 / 4.0 (1 / 177, top 1%).**
 * Overall: 3.8 / 4.0 (12 / 177, top 6%).
 
 ## Awards and Honors
