@@ -15,7 +15,7 @@ My research interest includes Bandits & Reinforcement Learning, Network Intellig
 
 Currently I focused my research on the topics below:
 
-* **Federated AIGC (AI-Generated Content)**: personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback.
+* **Personalized Federated Learning**: personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback.
 * **Constrained GNN (Graph Neural Network) Bandit**: combining GNN and bandit algorithms to solve graph structure problem, and considering operational constraints like budget and fairness.
 
 In conclusion, my research concentrates on using the **bandit algorithm** to make the **networked systems** applicable to a wider range of real-world scenarios (especially with **constrained setting**).
