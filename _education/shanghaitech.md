@@ -31,7 +31,6 @@ The following are the grades of my main major courses:
 | Convex Optimization (Graduate Course) |  A+  | Matrix computations (Graduate Course) |  A+  |
 |        Numerical Optimization        |  A+  |        Mathematical Analysis I        |   A   |
 |       Mathematical Analysis II       |   A   |             Linear Algebra             |   A   |
-|         Discrete Mathematics         |  A-  |      Probability and Statistics I      |  A-  |
 
 * Major Courses
 
@@ -40,7 +39,6 @@ The following are the grades of my main major courses:
 |      Reinforcement Learning (Graduate Course)      |  A+  | Deep Learning (Graduate Course) |   A   |
 | Online Optimization and Learning (Graduate Course) |   A   | Computer Architecture I Project |  A+  |
 |              Artificial Intelligence I              |   A   |   Introduction to Programming   |   A   |
-| Introduction to Information Science and Technology |  A-  | Algorithms and Data Structures |  A-  |
 
 ## Course Projects
 

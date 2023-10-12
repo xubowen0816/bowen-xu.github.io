@@ -1,8 +1,8 @@
 ---
-title: "Federated AIGC"
-excerpt: "An innovative MAB (Multi-armed Bandit) combines Bandit Feedback with Supervised Feedback, 2023.04 - Present"
-venue: "An innovative MAB (Multi-armed Bandit) combines Bandit Feedback with Supervised Feedback, 2023.04 - Present"
-date: 2023.02 - present
+title: "Personalized Federated Learning"
+excerpt: "A personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback, 2023.04 - Present"
+venue: "A personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback, 2023.04 - Present"
+date: 2023.04 - present
 collection: research
 ---
 <!-- **Key words:** Bandit Learning, Supervised Feedback, Federated Distillation, Distributed AI Systems.

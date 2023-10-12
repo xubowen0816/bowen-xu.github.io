@@ -1,7 +1,7 @@
 ---
-title: "GNN (Graph Neural Network) Bandits with Social Network"
-excerpt: "GNN (Graph Neural Network) Bandits with Social Network, 2023.04 - Present"
-venue: "GNN (Graph Neural Network) Bandits with Social Network, 2023.04 - Present"
+title: "Constrained GNN (Graph Neural Network) Bandit"
+excerpt: "Combining GNN and bandit algorithms to solve graph structure problem, and considering operational constraints like budget and fairness, 2023.04 - Present"
+venue: "Combining GNN and bandit algorithms to solve graph structure problem, and considering operational constraints like budget and fairness, 2023.04 - Present"
 date: 2023.04 - present
 collection: research
 ---

@@ -45,5 +45,5 @@ In conclusion, my research concentrates on using the **bandit algorithm** to mak
 
 ## Teaching Assistant
 
+* Spring 2022 Mathematical Analysis II **(Head TA)**.
 * Spring 2023 Probability and Statistics for EECS.
-* Spring 2022 Mathematical Analysis II.
