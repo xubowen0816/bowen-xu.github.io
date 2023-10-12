@@ -1,11 +1,10 @@
 ---
-title: "Application of DRL (Deep Reinforcement Learning)"
-excerpt: "Some applications of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
-venue: "Some applications of the DRL (Deep Reinforcement Learning) model, 2023.04 - Present"
+title: "AI for Science by Deep Reinforcement Learning"
+excerpt: "Some applications of the DRL (Deep Reinforcement Learning) model in AI for Science, 2023.04 - Present"
+venue: "Some applications of the DRL (Deep Reinforcement Learning) model in AI for Science, 2023.04 - Present"
 date: 2023.04 - Present
 collection: research
 ---
-
 <!--
 **Key words:** Deep Reinforcement Learning, AI for Science, AlphaGo.
 
