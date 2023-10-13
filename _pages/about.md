@@ -38,10 +38,10 @@ In conclusion, my research concentrates on using the **bandit algorithm** to mak
 * **Merit Student (top 3%)** ShanghaiTech University, 2020-2021.
 * Outstanding Student (top 7-8%) ShanghaiTech University, 2021-2022.
 * Mathematical Contest in Modeling (MCM): Honorable Mention, 2022.
-* Mathematics Competition of Chinese College Student: Second Prize, 2021.
-* Mathematics Competition of Chinese College Student: Third Prize, 2022.
-* Shanghai College Students Mathematics Contest: Second Prize, 2021.
-* Shanghai College Students Mathematics Contest: Third Prize, 2022.
+* Mathematics Competition of Chinese College Students: Second Prize, 2021.
+* Mathematics Competition of Chinese College Students: Third Prize, 2022.
+* Mathematics Competition of Shanghai College Students: Second Prize, 2021.
+* Mathematics Competition of Shanghai College Students: Third Prize, 2022.
 
 ## Teaching Assistant
 
