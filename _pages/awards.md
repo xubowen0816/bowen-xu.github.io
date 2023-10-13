@@ -11,10 +11,10 @@ The following are my main awards and honors:
 ## Competition Awards
 
 * Mathematical Contest in Modeling (MCM): Honorable Mention, 2022.
-* Mathematics Competition of Chinese College Student: Second Prize, 2021.
-* Mathematics Competition of Chinese College Student: Third Prize, 2022.
-* Shanghai College Students Mathematics Contest: Second Prize, 2021.
-* Shanghai College Students Mathematics Contest: Third Prize, 2022.
+* Mathematics Competition of Chinese College Students: Second Prize, 2021.
+* Mathematics Competition of Chinese College Students: Third Prize, 2022.
+* Mathematics Competition of Shanghai College Students: Second Prize, 2021.
+* Mathematics Competition of Shanghai College Students: Third Prize, 2022.
 * National Undergraduate Mathematics Competition Network Challenge: Third Prize, 2022.
 
 ## School Honors
