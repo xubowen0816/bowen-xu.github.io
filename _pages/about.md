@@ -11,7 +11,8 @@ I am a senior student studying at [School of Information and Science](https://si
 
 I am now a Computer Science Bachelor's candidate at the [Intelligence, Information and Decision (IID) Lab](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/lab.html), part of the [Network Intelligence Center (NICE)](https://nice.sist.shanghaitech.edu.cn/), which is housed within the [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), China. My current advisor is [Prof. Ziyu Shao](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/home.html).
 
-My research interest includes Bandits & Reinforcement Learning, Network Intelligence, Federated Learning, Deep Reinforcement Learning.
+My research interest includes Bandit & (Deep) Reinforcement Learning, Network Intelligence, Online Learning
+and Optimization, Deep Learning with Principled Design, AI for Science.
 
 Currently I focused my research on the topics below:
 
