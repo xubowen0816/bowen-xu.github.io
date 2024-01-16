@@ -16,9 +16,9 @@ and Optimization, Deep Learning with Principled Design, AI for Science.
 
 Currently, I focused my research on the topics below:
 
-* **[Constrained Personalized Federated Learning](https://xubowen0816.github.io/bowen-xu.github.io/research/Constrained_personalized_federated_learning/).** 
-* **[MaxWeight with Discounted UCB Algorithm](https://xubowen0816.github.io/bowen-xu.github.io/research/MaxWeight_with_discounted_UCB/).** 
-* **[Constrained GNN Bandit with Social Network](https://xubowen0816.github.io/bowen-xu.github.io/research/GNN_Bandits_with_Social_Network/).**
+* **[Constrained Personalized Federated Learning](https://xubowen0816.github.io/bowen-xu.github.io/research/Constrained_personalized_federated_learning/)** 
+* **[MaxWeight with Discounted UCB Algorithm](https://xubowen0816.github.io/bowen-xu.github.io/research/MaxWeight_with_discounted_UCB/)** 
+* **[Constrained GNN Bandit with Social Network](https://xubowen0816.github.io/bowen-xu.github.io/research/GNN_Bandits_with_Social_Network/)**
 
 In conclusion, my research concentrates on implementing intelligent decision-making and efficient resource allocation using **Bandit & Reinforcement Learning** and **Online Learning and Optimization** algorithms, with applications in various areas including **Network Intelligence** and Communication Systems (particularly in resource-constrained scenarios) etc.
 
