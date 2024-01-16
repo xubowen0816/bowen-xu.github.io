@@ -19,4 +19,4 @@ The following are the various activities I have participated in, including volun
 * Artificial Intelligence Industrial Practice (Outstanding Team Award), Shanghai 2022.
 * Microsoft's "Open Day" Industry Practice Activities, 2022.
 * Volunteer for ShanghaiTech University Epidemic Prevention and Control, 2022.
-* Volunteer for 6th World Laureates Forum, 2023.
+* Volunteer for the 6th World Laureates Forum, 2023.
