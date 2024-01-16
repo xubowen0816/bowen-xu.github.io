@@ -1,7 +1,7 @@
 ---
 title: "Constrained Personalized Federated Learning"
-excerpt: "2023.04 - Present (to be submitted for ICML-2024)"
-venue: "An algorithm framework combined with online feedback and supervised learning feedback, applied in federated distillation with constraints, 2023.04 - Present (to be submitted for ICML-2024)"
+excerpt: "2023.04 - Present (to be submitted for ICML-2024)."
+venue: "An algorithm framework combined with online feedback and supervised learning feedback, applied in federated distillation with constraints."
 date: 2023.04 - present
 collection: research
 ---
