@@ -19,11 +19,11 @@ The following are the various activities I have participated in, including volun
   
 ## Industrial / Social Practice 
 
-* Social Practice, Group Leader (Outstanding Individual Award), Gansu, China 2021.
-  * Assist Longnan Guanegou National Forest Park to create an AAAAA Tourist Attraction of China.
 * Aviation Industry Industrial Activities, Group Leader, Yangzhou, 2022.
 * Artificial Intelligence Industrial Practice (Outstanding Team Award), Shanghai 2022.
 * Microsoft's "Open Day" Industry Practice Activities, 2022.
+* Social Practice, Group Leader (Outstanding Individual Award), Gansu, China 2021.
+  * Assist Longnan Guanegou National Forest Park to create an AAAAA Tourist Attraction of China.
 
 ## Other 
 
