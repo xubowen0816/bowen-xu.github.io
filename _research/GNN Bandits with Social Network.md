@@ -1,7 +1,7 @@
 ---
-title: "Constrained GNN (Graph Neural Network) Bandit"
-excerpt: "Combining GNN and bandit algorithms to solve graph structure problem, and considering operational constraints like budget and fairness, 2023.04 - Present"
-venue: "Combining GNN and bandit algorithms to solve graph structure problem, and considering operational constraints like budget and fairness, 2023.04 - Present"
+title: "Constrained GNN (Graph Neural Network) Bandit with Social Network"
+excerpt: "2023.04 - Present (to be submitted for ICML-2024)"
+venue: "using GNN and bandit algorithms to solve client selection problem with graph structures, and considering operational constraints like budget and fairness"
 date: 2023.04 - present
 collection: research
 ---
