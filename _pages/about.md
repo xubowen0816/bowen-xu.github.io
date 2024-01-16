@@ -40,9 +40,9 @@ Additionally, I am interested in the mathematical interpretability of Deep Learn
 
 ## Awards and Honors
 
-* Merit Student (top 3-7%) ShanghaiTech University, 2021.
-* Merit Student (top 3-7%) ShanghaiTech University, 2023.
-* Outstanding Student (top 7-8%) ShanghaiTech University, 2022.
+* Outstanding Student (top 3-7%) ShanghaiTech University, 2021.
+* Outstanding Student (top 3-7%) ShanghaiTech University, 2023.
+* Merit Student (top 7-8%) ShanghaiTech University, 2022.
 * Mathematical Contest in Modeling (MCM): Honorable Mention, 2022.
 * Mathematics Competition of Chinese College Students: Second Prize, 2021.
 * Mathematics Competition of Chinese College Students: Third Prize, 2022.
