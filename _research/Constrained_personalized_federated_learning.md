@@ -1,7 +1,7 @@
 ---
 title: "Constrained Personalized Federated Learning"
 excerpt: "2023.04 - Present (to be submitted for ICML-2024)."
-venue: "2023.04 - Present (to be submitted for ICML-2024)."
+venue: "At ShanghaiTech University, 2023.04 - Present (to be submitted for ICML-2024)."
 date: 2023.04 - present
 collection: research
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AI for Science by Deep Reinforcement Learning"
 excerpt: "2023.04 - Present."
-venue: "2023.04 - Present."
+venue: "At ShanghaiTech University, 2023.04 - Present."
 date: 2023.04 - Present
 collection: research
 ---

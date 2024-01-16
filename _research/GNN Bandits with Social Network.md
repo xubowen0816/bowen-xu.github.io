@@ -1,7 +1,7 @@
 ---
 title: "Constrained GNN (Graph Neural Network) Bandit with Social Network"
 excerpt: "2023.05 - Present (to be submitted for ICML-2024)."
-venue: "2023.05 - Present (to be submitted for ICML-2024)."
+venue: "At ShanghaiTech University, 2023.05 - Present (to be submitted for ICML-2024)."
 date: 2023.05 - present
 collection: research
 ---
