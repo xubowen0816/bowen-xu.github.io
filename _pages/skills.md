@@ -8,6 +8,6 @@ redirect_from:
 ---
 The following are my main **Technical Skills:**
 
-* Programming Language: C, C++, Python(Pytorch), Matlab, LATEX, etc
+* Programming Language: C, C++, Python(Pytorch), Matlab, Latex, etc.
 * Operating System: Linux(Ubuntu), Windows.
 * Language: Mandarin (native), English (proficient)
