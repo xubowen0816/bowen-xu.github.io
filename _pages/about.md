@@ -21,11 +21,13 @@ Currently, I focused my research on the topics below:
 * **Constrained GNN (Graph Neural Network) Bandit with Social Network:** using GNN and bandit algorithms to solve client selection problem with graph structures, and considering operational constraints like budget and fairness.
 
 In conclusion, my research concentrates on implementing intelligent decision-making and efficient resource allocation using **Bandit & Reinforcement Learning** and **Online Learning and Optimization** algorithms, with applications in various areas including **Network Intelligence** and Communication Systems (particularly in resource-constrained scenarios) etc.
+
+
 Additionally, I am interested in the mathematical interpretability of Deep Learning as well as the application of **Deep Reinforcement Learning** and Graph Neural Networks in AI for Science.
 
 ## Basic Information
 
-**I am currently searching for Ph.D. positions (2024 Fall).** Please feel free to access my CV: [Bowen Xu's CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf), and contact me at:
+**I am currently searching for Ph.D. positions (2024 Fall).** Please feel free to access my CV: [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf), and contact me at:
 
 * Email: xubw1 at shanghaitech dot edu dot cn
 * Social Media: WeChat (ID: xubowen-0816), [Linkedin](https://www.linkedin.com/in/bowen-xu-1a276b29a/).
