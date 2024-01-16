@@ -1,7 +1,7 @@
 ---
 title: "AI for Science by Deep Reinforcement Learning"
-excerpt: "2023.04 - Present"
-venue: "Applications of Deep Reinforcement Learning (DRL) in AI for Science and innovative improvements"
+excerpt: "2023.04 - Present."
+venue: "Applications of Deep Reinforcement Learning (DRL) in AI for Science and innovative improvements."
 date: 2023.04 - Present
 collection: research
 ---
