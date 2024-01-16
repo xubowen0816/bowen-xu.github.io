@@ -14,4 +14,4 @@ My main work in this project are:
 * Design a GNN (Graph Neural Network) bandit algorithm with **dependent arms** applied in social network.
 -->
 
-Use GNN (Graph Neural Network) and bandit algorithms to solve client selection problem with graph structures and operational constraints like budget and fairness.
+Use GNN (Graph Neural Network) and bandit algorithms to solve client selection problems with graph structures and operational constraints like budget and fairness.
