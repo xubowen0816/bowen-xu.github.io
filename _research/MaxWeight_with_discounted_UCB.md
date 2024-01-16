@@ -5,4 +5,4 @@ venue: "At University of Michigan, Ann Arbor, 2023.10 - Present."
 date: 2023.10 - present
 collection: research
 ---
-Utilize the Upper Confidence Bound (UCB) algorithm to assist the Maxweight algorithm in online learning and resource allocation, applied in multi-server queuing system.
+Utilize the UCB (Upper Confidence Bound) algorithm to assist the Maxweight algorithm in online learning and resource allocation, applied in multi-server queuing system.
