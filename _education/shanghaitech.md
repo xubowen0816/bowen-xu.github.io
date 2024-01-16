@@ -13,7 +13,7 @@ Undergraduate School, 2020.9 - 2024. 6 (Expected).
 
 * Time: 2020.9 - 2024.6 (Expected)
 * GPA: (5 Graduate courses) 4.0 / 4.0, (Junior) 4.0 / 4.0 (top 1), (Overall) 3.8 / 4.0.
-* Honors: Merit Student (top 3-7%, 2021, 2023), Outstanding Student (top 7-8%, 2022).
+* Honors: Outstanding Student (top 3-7%, 2021, 2023), Merit Student (top 7-8%, 2022).
 
 ## Curriculum
 
