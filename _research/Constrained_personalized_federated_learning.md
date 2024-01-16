@@ -1,5 +1,5 @@
 ---
-title: "Personalized Federated Learning"
+title: "Constrained Personalized Federated Learning"
 excerpt: "A personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback, 2023.04 - Present"
 venue: "A personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback, 2023.04 - Present"
 date: 2023.04 - present

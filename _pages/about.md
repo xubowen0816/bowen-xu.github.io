@@ -9,21 +9,22 @@ redirect_from:
 ---
 I am a senior student studying at [School of Information and Science](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
 
-I am now a Computer Science Bachelor's candidate at the [Intelligence, Information and Decision (IID) Lab](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/lab.html), part of the [Network Intelligence Center (NICE)](https://nice.sist.shanghaitech.edu.cn/), which is housed within the [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), China. My current advisor is [Prof. Ziyu Shao](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/home.html).
+I am now a Computer Science Bachelor's candidate at the [Intelligence, Information and Decision (IID) Lab](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/lab.html), part of the [Network Intelligence Center (NICE)](https://nice.sist.shanghaitech.edu.cn/), which is housed within the [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), China. My current advisor is [Prof. Ziyu Shao](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/home.html). Recently, I have also been closely collaborating with Professor Lei Ying's research group at the University of Michigan in the field of online learning and control.
 
 My research interest includes Bandit & (Deep) Reinforcement Learning, Network Intelligence, Online Learning
 and Optimization, Deep Learning with Principled Design, AI for Science.
 
-Currently I focused my research on the topics below:
+Currently, I focused my research on the topics below:
 
-* **Constrained Personalized Federated Learning**: personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback.
-* **Constrained GNN (Graph Neural Network) Bandit with Social Network**: combining GNN and bandit algorithms to solve graph structure problem, and considering operational constraints like budget and fairness.
+* **Constrained Personalized Federated Learning:** personalized federated learning algorithm framework with online feedback (in particular, bandit feedback) and supervised feedback.
+* **MaxWeight with Discounted UCB Algorithm with Unbounded Service Time:** 
+* **Constrained GNN (Graph Neural Network) Bandit with Social Network:** combining GNN and bandit algorithms to solve graph structure problem, and considering operational constraints like budget and fairness.
 
-In conclusion, my research concentrates on using the **bandit algorithm** to make the **networked systems** applicable to a wider range of real-world scenarios (especially with **constrained setting**).
+In conclusion, my research concentrates on implementing efficient resource allocation and intelligent decision-making using **Bandit & Reinforcement Learning** algorithms. I apply these algorithms in various domains, including **Network Intelligence** and **Online Control** (particularly in resource-constrained scenarios). Additionally, I am interested in the mathematical interpretability of deep learning as well as the application of **Deep Reinforcement Learning** and **Graph Neural Networks** in AI for Science.
 
 ## Basic Information
 
-**I am currently searching for Ph.D. positions (2024 Fall).** Please feel free to access my CV:  [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf), and contact me at:
+**I am currently searching for Ph.D. positions (2024 Fall).** Please feel free to access my CV: [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf), and contact me at:
 
 * Email: xubw1 at shanghaitech dot edu dot cn
 * Social Media: WeChat (ID: xubowen-0816), [Linkedin](https://www.linkedin.com/in/bowen-xu-1a276b29a/).
@@ -31,7 +32,7 @@ In conclusion, my research concentrates on using the **bandit algorithm** to mak
 ## GPA
 
 * **5 Graduate courses: 4.0 / 4.0.**
-* **Last year: 4.0 / 4.0 (1 / 177, top 1%).**
+* **Junior: 4.0 / 4.0 (1 / 177, top 1).**
 * Overall: 3.8 / 4.0 (12 / 177, top 6%).
 
 ## Awards and Honors
