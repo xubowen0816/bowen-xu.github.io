@@ -16,12 +16,11 @@ and Optimization, Deep Learning with Principled Design, AI for Science.
 
 Currently, I focused my research on the topics below:
 
-* **[Constrained Personalized Federated Learning](https://xubowen0816.github.io/bowen-xu.github.io/research/Constrained_personalized_federated_learning/)** 
-* **[MaxWeight with Discounted UCB Algorithm](https://xubowen0816.github.io/bowen-xu.github.io/research/MaxWeight_with_discounted_UCB/)** 
+* **[Constrained Personalized Federated Learning](https://xubowen0816.github.io/bowen-xu.github.io/research/Constrained_personalized_federated_learning/)**
+* **[MaxWeight with Discounted UCB Algorithm](https://xubowen0816.github.io/bowen-xu.github.io/research/MaxWeight_with_discounted_UCB/)**
 * **[Constrained GNN Bandit with Social Network](https://xubowen0816.github.io/bowen-xu.github.io/research/GNN_Bandits_with_Social_Network/)**
 
 In conclusion, my research concentrates on implementing intelligent decision-making and efficient resource allocation using **Bandit & Reinforcement Learning** and **Online Learning and Optimization** algorithms, with applications in various areas including **Network Intelligence** and Communication Systems (particularly in resource-constrained scenarios) etc.
-
 
 Additionally, I am interested in the mathematical interpretability of Deep Learning as well as the application of **Deep Reinforcement Learning** and Graph Neural Networks in AI for Science.
 
@@ -48,6 +47,7 @@ Additionally, I am interested in the mathematical interpretability of Deep Learn
 * Mathematics Competition of Chinese College Students: Third Prize, 2022.
 * Mathematics Competition of Shanghai College Students: Second Prize, 2021.
 * Mathematics Competition of Shanghai College Students: Third Prize, 2022.
+* National Undergraduate Mathematics Competition Network Challenge: Third Prize, 2022.
 
 ## Teaching Assistant
 
