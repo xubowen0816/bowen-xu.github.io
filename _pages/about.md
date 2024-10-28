@@ -15,7 +15,7 @@ My research interests include Bandit & (Deep) Reinforcement Learning, Recommenda
 
 Currently, I am focusing on **LLM for Recommendation Systems (LLM4RS)** in collaboration with Amazon and Professor Dawei Zhou at Virginia Tech. My research topic is **Revolutionizing Recommender Systems with LLMs: A Dual Approach of Re-ranking and Black-box Prompt Optimization**.
 
-As an undergraduate, I focused my research on the following topics:
+As an undergraduate research assistant, I focused my research on the following topics:
 
 * **[Constrained Personalized Federated Learning](https://xubowen0816.github.io/bowen-xu.github.io/research/Constrained_personalized_federated_learning/)**
 * **[MaxWeight with Discounted UCB Algorithm](https://xubowen0816.github.io/bowen-xu.github.io/research/MaxWeight_with_discounted_UCB/)**
