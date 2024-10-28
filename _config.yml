@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bowen Xu / 徐博文"
   avatar           : "xubowen.jpg"
-  bio              : "Senior, Major in CS, ShanghaiTech University"
-  location         : "Shanghai, China"
+  bio              : "Ph.D. Student, Major in CS, Virginia Tech"
+  location         : "Blacksburg, VA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "xubw1@shanghaitech.edu.cn"
+  email            : "bowenxu@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "xubowen0816"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "bowenxu2002"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bowen-xu-1a276b29a"
