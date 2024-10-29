@@ -40,6 +40,7 @@ Please feel free to access my CV: [Bowen Xu&#39;s CV](https://xubowen0816.github
 
 ## Awards and Honors
 
+* Outstanding Graduate Student, 2024.
 * Outstanding Student (top 3-7%) ShanghaiTech University, 2021.
 * Outstanding Student (top 3-7%) ShanghaiTech University, 2023.
 * Merit Student (top 7-8%) ShanghaiTech University, 2022.
@@ -49,6 +50,8 @@ Please feel free to access my CV: [Bowen Xu&#39;s CV](https://xubowen0816.github
 * Mathematics Competition of Shanghai College Students: Second Prize, 2021.
 * Mathematics Competition of Shanghai College Students: Third Prize, 2022.
 * National Undergraduate Mathematics Competition Network Challenge: Third Prize, 2022.
+* Outstanding Individual Award for Society Practice, 2021.
+* Outstanding Group Award for Industrial Practice (First Prize), 2022.
 
 ## Teaching Assistant
 
