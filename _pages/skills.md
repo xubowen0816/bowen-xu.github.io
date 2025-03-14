@@ -16,3 +16,4 @@ Also, I have a wide range of skills (hobbies) in some other fields.
 
 * Sports: Weiqi (5D), Chess, Chinese chess, Swimming, Basketball, Football, Badminton.
 * Musical Instruments: Guitar, Harmonica.
+* I used to be a trumpeter in the school marching band and participated in multiple performances.
