@@ -25,6 +25,10 @@ As an undergraduate research assistant, I focused my research on the following t
 
 Additionally, I am interested in the mathematical interpretability of Deep Learning as well as the application of **Deep Reinforcement Learning** and Graph Neural Networks in AI for Science. -->
 
+## News 
+
+[3/2025] I'm happy to receive CCI SWVA Cyber Innovation Scholarship. Honor to be a **CCI SWVA Cyber Innovation Scholar.**
+
 ## Basic Information
 
 Please feel free to access my CV: [Bowen Xu&#39;s CV](https://xubowen0816.github.io/bowen-xu.github.io/assets/Bowen_Xu__ShanghaiTech__CS.pdf), and contact me at:
