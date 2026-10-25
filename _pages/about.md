@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a first-year Ph.D. student at [Virginia Tech](https://www.vt.edu/), where I work under the guidance of Professor [Bo Ji](https://people.cs.vt.edu/boji/index.html).
+Hi! I am a third-year Ph.D. student at [Virginia Tech](https://www.vt.edu/), where I work under the guidance of Professor [Bo Ji](https://people.cs.vt.edu/boji/index.html).
 
 Previously, I completed my B.Eng. degree at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) (co-founded by the Chinese Academy of Sciences) in China. As an undergraduate research assistant in the [Intelligence, Information and Decision (IID) Lab](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/lab.html), part of the [Network Intelligence Center (NICE)](https://nice.sist.shanghaitech.edu.cn/), I was advised by [Prof. Ziyu Shao](https://faculty.sist.shanghaitech.edu.cn/faculty/shaozy/home.html). I also collaborated with Professor Lei Ying's research group at the University of Michigan, focusing on online learning and control. I also worked as a Machine Learning Research Intern at Nanjing University, where I researched topics in multi-agent reinforcement learning and collaboration strategies for unmanned aerial vehicles (UAVs).
 
-My research interests include Bandit & (Deep) Reinforcement Learning, Recommendation Systems, Large Language Models, Network Intelligence, Online Learning and Optimization, and AI for Science.
+My research interests include Multi-agent Bandit & (Deep) Reinforcement Learning, Recommendation Systems, Large Language Models, Network Intelligence, Online Learning and Optimization, and AI for Science.
 
 Currently, I am focusing on **LLM for Recommendation Systems (LLM4RS)** in collaboration with Amazon and Professor Dawei Zhou at Virginia Tech. My research topic is **Revolutionizing Recommender Systems with LLMs: A Dual Approach of Re-ranking and Black-box Prompt Optimization**.
 
@@ -25,7 +25,7 @@ As an undergraduate research assistant, I focused my research on the following t
 
 Additionally, I am interested in the mathematical interpretability of Deep Learning as well as the application of **Deep Reinforcement Learning** and Graph Neural Networks in AI for Science. -->
 
-## News 
+## News
 
 [3/2025] I'm happy to receive CCI SWVA Cyber Innovation Scholarship. Honor to be a **CCI SWVA Cyber Innovation Scholar.**
 
